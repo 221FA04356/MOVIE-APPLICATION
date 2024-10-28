@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/19d4f272-e5cf-48f8-b37d-f9faa85133e6
 ### Installation
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/movie-app.git
+    git clone https://github.com/221FA04356/MOVIE-APPLICATION.git
     cd movie-app
     ```
 
