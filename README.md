@@ -66,18 +66,18 @@ src
 ## Icon Integration 🎨
 
 Icons are used to represent key functionalities:
-- **Popular Icon**: Represents the "Popular Movies" category
-- **Trending Icon**: Represents the "Trending This Week" category
-- **Search Icon**: Represents the search functionality for easy access
+- Popular Icon: Represents the "Popular Movies" category
+- Trending Icon: Represents the "Trending This Week" category
+- Search Icon: Represents the search functionality for easy access
 
 
 
 ## API Integration 🌐
 This application interacts with the TMDB API to fetch data. The main API endpoints used are:
-- **Popular Movies**: `/movie/popular`
-- **Trending Movies**: `/trending/movie/week`
-- **Movie Search**: `/search/movie`
-- **Movie Details**: `/movie/{movie_id}`
+- Popular Movies: `/movie/popular`
+- Trending Movies: `/trending/movie/week`
+- Movie Search: `/search/movie`
+- Movie Details: `/movie/{movie_id}`
 
 For detailed API documentation, visit the [TMDB API Documentation](https://developers.themoviedb.org/3).
 
