@@ -2,6 +2,8 @@
 
 This is a web-based movie application built with React that utilizes the TMDB (The Movie Database) API to fetch and display a variety of movie-related data. Users can search for movies, view details, and explore various categories of films such as popular, top-rated, and upcoming releases. The application also includes icons to represent popular, trending this week, and search functionality for a better user experience.
 
+https://github.com/user-attachments/assets/19d4f272-e5cf-48f8-b37d-f9faa85133e6
+
 ## Features 🚀
 - Search Movies: Users can search for movies by title and view a list of relevant results with a search icon for quick access.
 - Popular and Trending Categories: Users can explore popular and trending movies, each represented by distinct icons for easy navigation.
